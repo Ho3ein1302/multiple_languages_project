@@ -1,6 +1,6 @@
 # multiple_languages_project
 
-for multipling your django project langage you should:
+for multipling your django project language you should:
 
 
 
